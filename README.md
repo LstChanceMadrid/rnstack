@@ -1,0 +1,1 @@
+Beginning a react-native fullstack app practice
